@@ -30,7 +30,7 @@ puts sample source and libuif_structs.mod,libuif.mod and libui.a(if use static l
 
 ## Licence
 
-[MIT](https://github.com/hirohiro447/libuif/LICENCE)
+[MIT](https://github.com/hirohiro447/libuif/blob/master/LICENSE)
 
 ## Author
 
