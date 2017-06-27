@@ -1,6 +1,6 @@
-#libuif
+libuif
 
-#Overview
+Overview
 
 Fortran module for libui: a portable GUI library for C
 
