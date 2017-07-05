@@ -12,6 +12,10 @@ libui: https://github.com/andlabs/libui
 
 gfortran Version4.9 later
 
+## Update
+
+2017/7/5  add C interface usleep and pthreads, add samples
+
 ## Usage
 
 Linux
